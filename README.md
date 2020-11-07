@@ -1,6 +1,6 @@
 # neofloss.com
 
-This is the repository for my site
+This is the repository for [the theme](https://github.com/radiolevity/neofloss).
 
 ## Licenses
 
