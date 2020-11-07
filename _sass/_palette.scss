@@ -1,0 +1,19 @@
+
+$black:  #1C1B1D;
+$white:  #D8B2DE;
+$accent: #60C2E0;
+
+$gray1: lighten($black, 36%);
+$gray2: lighten($black, 46%);
+$gray3: lighten($black, 56%);
+$gray4: lighten($black, 76%);
+$gray5: lighten($black, 80%);
+
+$roman: 400;
+$bold: 700;
+
+$typecolor: $white;
+$fontstack: "Iosevka Aile", sans-serif;
+$titlestack: $fontstack;
+$fontweight: $roman;
+$titleweight: $bold;
